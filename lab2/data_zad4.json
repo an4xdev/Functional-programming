@@ -1,0 +1,352 @@
+[
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 44,
+    "product_id": "694288521"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 82,
+    "product_id": "774000270"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 54,
+    "product_id": "721455659"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 52,
+    "product_id": "941200021"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 2,
+    "product_id": "815008907"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 3,
+    "product_id": "705546985"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 48,
+    "product_id": "497567062"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 90,
+    "product_id": "663593458"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 38,
+    "product_id": "405828315"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 56,
+    "product_id": "918754101"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 37,
+    "product_id": "384229478"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 60,
+    "product_id": "865716721"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 33,
+    "product_id": "617169082"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 52,
+    "product_id": "652732326"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 21,
+    "product_id": "608337361"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 27,
+    "product_id": "740199002"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 25,
+    "product_id": "605951694"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 23,
+    "product_id": "543777637"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 45,
+    "product_id": "764398132"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 80,
+    "product_id": "449536015"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 90,
+    "product_id": "550330548"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 76,
+    "product_id": "447694892"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 23,
+    "product_id": "125154930"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 80,
+    "product_id": "624274268"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 51,
+    "product_id": "375129739"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 78,
+    "product_id": "827156128"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 63,
+    "product_id": "540900552"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 15,
+    "product_id": "890357721"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 67,
+    "product_id": "922112931"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 51,
+    "product_id": "631842281"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 40,
+    "product_id": "311613996"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 5,
+    "product_id": "818635395"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 75,
+    "product_id": "440998297"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 84,
+    "product_id": "372106002"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 84,
+    "product_id": "205151955"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 51,
+    "product_id": "910219781"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 47,
+    "product_id": "943712832"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 16,
+    "product_id": "544362778"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 4,
+    "product_id": "658358272"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 98,
+    "product_id": "144103950"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 8,
+    "product_id": "169014467"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 59,
+    "product_id": "259778015"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 44,
+    "product_id": "813844763"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 81,
+    "product_id": "242876060"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 68,
+    "product_id": "824829239"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 49,
+    "product_id": "776541948"
+  },
+  {
+    "product_name": "S\u0142uchawki",
+    "unit_price": 500,
+    "tax_rate": 0.23,
+    "quantity_sold": 89,
+    "product_id": "268752826"
+  },
+  {
+    "product_name": "Kamera",
+    "unit_price": 1500,
+    "tax_rate": 0.15,
+    "quantity_sold": 44,
+    "product_id": "651295299"
+  },
+  {
+    "product_name": "Laptop",
+    "unit_price": 3000,
+    "tax_rate": 0.23,
+    "quantity_sold": 47,
+    "product_id": "847749853"
+  },
+  {
+    "product_name": "Telefon",
+    "unit_price": 2500,
+    "tax_rate": 0.19,
+    "quantity_sold": 72,
+    "product_id": "621972247"
+  }
+]
